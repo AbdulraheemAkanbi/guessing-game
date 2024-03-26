@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\bin\Debug\net6.0\csharp_journey.exe
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\bin\Debug\net6.0\csharp_journey.deps.json
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\bin\Debug\net6.0\csharp_journey.runtimeconfig.json
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\bin\Debug\net6.0\csharp_journey.dll
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\bin\Debug\net6.0\csharp_journey.pdb
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.AssemblyInfo.cs
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.dll
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\refint\csharp_journey.dll
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.pdb
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\csharp_journey.genruntimeconfig.cache
+C:\Users\USER\Desktop\csharp_journey\csharp_journey\obj\Debug\net6.0\ref\csharp_journey.dll
